@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BraveLittleCoinTracker/static/css/main.c84b5b04.chunk.css",
+    "main.js": "/BraveLittleCoinTracker/static/js/main.dbc1c535.chunk.js",
+    "main.js.map": "/BraveLittleCoinTracker/static/js/main.dbc1c535.chunk.js.map",
+    "runtime-main.js": "/BraveLittleCoinTracker/static/js/runtime-main.7d35a1a3.js",
+    "runtime-main.js.map": "/BraveLittleCoinTracker/static/js/runtime-main.7d35a1a3.js.map",
+    "static/js/2.c5aba1b4.chunk.js": "/BraveLittleCoinTracker/static/js/2.c5aba1b4.chunk.js",
+    "static/js/2.c5aba1b4.chunk.js.map": "/BraveLittleCoinTracker/static/js/2.c5aba1b4.chunk.js.map",
+    "index.html": "/BraveLittleCoinTracker/index.html",
+    "static/css/main.c84b5b04.chunk.css.map": "/BraveLittleCoinTracker/static/css/main.c84b5b04.chunk.css.map",
+    "static/js/2.c5aba1b4.chunk.js.LICENSE.txt": "/BraveLittleCoinTracker/static/js/2.c5aba1b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d35a1a3.js",
+    "static/js/2.c5aba1b4.chunk.js",
+    "static/css/main.c84b5b04.chunk.css",
+    "static/js/main.dbc1c535.chunk.js"
+  ]
+}
